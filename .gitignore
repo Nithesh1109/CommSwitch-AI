@@ -1,0 +1,21 @@
+# Arduino
+*.ino.bin
+*.ino.bootloader.bin
+*.ino.partitions.bin
+*.elf
+*.map
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Build folders
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.h
